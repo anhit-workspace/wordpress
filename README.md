@@ -46,3 +46,7 @@ change permision wordprss folder
 sudo chown -R www-data:www-data /var/www/wordpress/
 sudo chmod -R 755 /var/www/wordpress/
 ```
+
+===
+
+- Tìm các template free của wordpress với từ khoá: nulled
