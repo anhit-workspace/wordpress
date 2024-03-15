@@ -1,6 +1,16 @@
 # wordpress
 
-version: 6.4.3
+**version:** 6.4.3
+
+Only store original wordpress resources from 'wordpress home page'. Other resources are not included
+
+You can set up apache php or openlitespeed to make a web server: 
+
+- Instructions for setup wordpress on Ubuntu Apache2: [Link]([https://vietnix.vn/cai-wordpress-tren-ubuntu/?gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpZL00picWPXmhibWgzy5s8DOw02AixlvZtoIVAJMH4KK2Ef4rYR6lkaAqB4EALw_wcB])
+- Instructions for setup wordpress on Ubuntu OpenLiteSpeed: [Link](https://thuanbui.me/wordpress-mariadb-openlitespeed-phpmyadmin-docker-compose/)
+  - Github repo [OpenLiteSpeed](https://github.com/litespeedtech/ols-docker-env)
+
+===
 
 git clone code to your OS.
 
